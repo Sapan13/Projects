@@ -1,1 +1,0 @@
-Practice for open source
