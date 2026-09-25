@@ -1,0 +1,1 @@
+[MFLOG|0|2026-08-16T01:53:46.727677Z|runtime|17935d27-a25f-4cda-b9fa-1b4e015e21e9][TRAIN] Assume GBT trained: features = [distance_km, prep_time, rain, riders]

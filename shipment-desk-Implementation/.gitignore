@@ -1,0 +1,23 @@
+# Secrets and Environment Variables
+.env
+
+# Virtual Environment
+venv/
+
+# Python Cache and Compiled Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+*$py.class
+
+# OS Generated Files (macOS)
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# IDE Settings (VS Code)
+.vscode/

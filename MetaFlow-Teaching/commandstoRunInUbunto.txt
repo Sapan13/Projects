@@ -1,0 +1,29 @@
+
+Option 1 — Windows Start Menu ⭐ Recommended
+Press the Windows key.
+Type Ubuntu.
+Click Ubuntu.
+
+Your daily workflow becomes only 3 commands
+
+Open Ubuntu terminal:
+
+cd ~/projects/MLPractice/MetaFlow-Teaching
+
+Activate environment:
+
+source .venv/bin/activate
+
+Run your flow:
+
+python flows/01_swiggy_eta.py run
+
+That's all.
+
+Editing the code
+
+From that same Ubuntu terminal:
+
+code .
+
+VS Code will open your project.

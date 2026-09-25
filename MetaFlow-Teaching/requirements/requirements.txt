@@ -1,0 +1,10 @@
+# Metaflow teaching project — Introduction to Metaflow
+# Install with:  pip install -r requirements.txt
+
+metaflow>=2.19.0
+pyyaml>=6.0          # needed by 05_reco_config.py
+numpy>=1.26          # needed by 09_feature_resources.py
+
+# Optional — uncomment if you extend the "assume trained" prints into real models
+# scikit-learn>=1.4
+# pandas>=2.2

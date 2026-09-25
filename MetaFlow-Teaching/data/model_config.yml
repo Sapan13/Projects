@@ -1,0 +1,5 @@
+model: recommendation_v3
+environment: staging
+learning_rate: 0.01
+epochs: 10
+min_ctr_threshold: 0.02

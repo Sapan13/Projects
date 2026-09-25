@@ -1,0 +1,5 @@
+model: recommendation_v3
+environment: production
+learning_rate: 0.003
+epochs: 40
+min_ctr_threshold: 0.035
